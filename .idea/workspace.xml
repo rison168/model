@@ -2,41 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6226428b-b943-4499-b420-dc3cea4af4b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/abstractFactory/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/abstractFactory/Banana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/abstractFactory/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/abstractFactory/FruitFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/abstractFactory/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/abstractFactory/NorthApple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/abstractFactory/NorthBanana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/abstractFactory/NorthFruitFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/abstractFactory/SouthApple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/abstractFactory/SouthBanana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/abstractFactory/SouthFruitFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/builder/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/builder/HouseBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/builder/HouseDirector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/builder/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/builder/PingFangBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/factoryMethod/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/factoryMethod/AppleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/factoryMethod/Banana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/factoryMethod/BananaFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/factoryMethod/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/factoryMethod/FruitFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/factoryMethod/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/factoryMethod/Pear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/prototype/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/prototype/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/simpleFactory/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/simpleFactory/Banana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/simpleFactory/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/simpleFactory/FruitFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/simpleFactory/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/testFactory/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/model/demo/wiki.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../thread-dome/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../thread-dome/src/com/text/thread/ThreadDome.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../thread-dome/src/com/text/thread/ThreadTests.java" afterDir="false" />
@@ -63,7 +28,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/model/demo/factoryMethod/Apple.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
+            <state relative-caret-position="188">
               <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
@@ -355,6 +320,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/model/demo/abstractFactory" />
@@ -477,12 +443,12 @@
       <updated>1595817699707</updated>
       <workItem from="1595817704580" duration="11485000" />
       <workItem from="1595902287891" duration="2395000" />
-      <workItem from="1595917189980" duration="9655000" />
+      <workItem from="1595917189980" duration="9936000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23535000" />
+    <option name="totallyTimeSpent" value="23816000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -505,7 +471,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.6789588" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="CheckStyle" order="10" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -862,7 +828,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/model/demo/factoryMethod/Apple.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
+        <state relative-caret-position="188">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
