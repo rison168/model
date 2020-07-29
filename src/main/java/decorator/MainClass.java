@@ -9,8 +9,13 @@ public class MainClass {
 //        Car flyCar = new FlyCar();
 //        flyCar.show();
 
-        Car flyCar = new RunCar();
-        CarDecorator carDecorator = new FlyCarDecorator(flyCar);
-        carDecorator.show();
+//        Car flyCar = new RunCar();
+//        CarDecorator carDecorator = new FlyCarDecorator(flyCar);
+//        carDecorator.show();
+
+        Car car = new RunCar();
+        CarDecorator flyCarDecorator = new FlyCarDecorator(car);
+        CarDecorator swimCarDecorator = new SwimCarDecorator(flyCarDecorator);
+        swimCarDecorator.show();
     }
 }

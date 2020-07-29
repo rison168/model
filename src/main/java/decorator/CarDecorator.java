@@ -7,7 +7,7 @@ import lombok.Data;
  * @version 1.0
  */
 @Data
-public abstract class CarDecorator {
+public abstract class CarDecorator implements Car{
     private Car car;
     public CarDecorator(Car car){
         this.car = car;
