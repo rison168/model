@@ -1,5 +1,6 @@
 
-Jsquid:S1068
-"'Remove this unused "age" private field.(Æ†´¦şÿÿÿÿ8ì¥½ ¹.
-Fsquid:S1068	"(Remove this unused "name" private field.(Ë¥¼8ì¥½ ¹.
-Esquid:S1068"'Remove this unused "sex" private field.(ª†« 8ì¥½ ¹.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¬Œî­úÿÿÿÿ8†í·¡¹.
+isquid:HiddenFieldCheck%";Rename "friends" which hides the field declared at line 17.(©Øø–ùÿÿÿÿ8§¾¡¹.
+Fsquid:S1148,"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ŒÄº¡¹.
+vsquid:S2975""SRemove this "clone" implementation; use a copy constructor or copy factory instead.(İ±±øÿÿÿÿ8µşî ¹.
+7squid:S2225-"Return a non null object.(¥¹ï8èËÇ¡¹.
